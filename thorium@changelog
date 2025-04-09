@@ -1,0 +1,32 @@
+
+⁠┣＞thorium Tool / Flags / In-App Settings & Extensions now available
+The flags were taken from my list in ⁠┣＞ungoogled, as they're both chromium based
+
+What does the tool contain?
+Installer
+Redirects you to Thorium-Win/releases, as it doesn't has a permanent download link
+Debloat
+Error reporting related files
+Notification helper
+Language files (only leaves en-US)
+Installer leftovers, logs
+Thorium Shell
+More info here
+Packaging tools
+Thorium icons/images
+May break some icons (not for me)
+Chromedriver
+"ChromeDriver is a separate executable that Selenium WebDriver uses to control Chrome" ~ info
+Thor_ver
+Removing thor_ver -> breaks winupdater? (*)
+Winupdater is discontinued, so the file can be removed safely
+Cleaner
+Removes the following (yes, the same as in ⁠┣＞ungoogled):
+Cached web assets
+GPU and shader caches
+Session storage
+And more...
+
+:download:  Download: ⁠┣＞thorium
+
+Let me know if it worked and helped you in ⁠📨｜feedback :blobthanks:
